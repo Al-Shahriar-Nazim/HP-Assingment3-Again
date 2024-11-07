@@ -9,4 +9,7 @@
   .tags{
     @apply border p-2 rounded-full border-[#F44335] text-[#181818] m-1 hover:bg-black hover:text-white hover:scale-105 transition-all duration-300
   }
+  .check{
+    @apply flex items-center gap-x-1 my-2
+  }
 }
