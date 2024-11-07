@@ -6,4 +6,7 @@
   .button {
     @apply bg-[#F44335] text-white hover:bg-[#c45b54] md:w-[150px] w-[100px] px-0.5 text-center md:px-2 py-0.5 md:py-2 flex justify-center rounded-md md:font-semibold font-medium md:text-[17px] text-[14px];
   }
+  .tags{
+    @apply border p-2 rounded-full border-[#F44335] text-[#181818] m-1 hover:bg-black hover:text-white hover:scale-105 transition-all duration-300
+  }
 }
